@@ -25,15 +25,13 @@ p{
 }
 body{
   height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background:url("https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-personal-job-search-resume-background-material-image_163697.jpg"); 
  background-repeat:no-repeat; 
  background-size:cover;
 }
-.Picture{
-  width: 500px;
-  clip-path: circle;
-  border-radius: 50%;
+img{
+  border-radius: 100px;
+}
+Navbar{
+
 }
